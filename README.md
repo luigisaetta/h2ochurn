@@ -5,4 +5,4 @@ Dataset used, from Kaggle (Telco Churn dataset):
 https://www.kaggle.com/blastchar/telco-customer-churn
 
 Models contained so far:
-* Gradient Boosting Machine, with grid-search for hyper-parameter optimization
+* Gradient Boosting Machine (GBM), with grid-search for hyper-parameter optimization
